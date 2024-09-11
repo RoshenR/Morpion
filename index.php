@@ -13,5 +13,8 @@
             <p id="last_name">The Game</p>
         </div>
     </div>
+    <a href="game.php">
+        <button id="game_btn">PLAY</button>
+    </a>
 </body>
 </html>
