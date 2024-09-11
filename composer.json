@@ -1,0 +1,17 @@
+{
+    "name": "efrei/morpion",
+    "description": "premier projet composer, atelier2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Efrei\\Morpion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RoshenR",
+            "email": "crisliath@gmail.com"
+        }
+    ],
+    "require": {}
+}
